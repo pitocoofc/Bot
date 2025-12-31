@@ -8,6 +8,15 @@
     "name": "help",
     "description": "Mostra todos os comandos disponíveis",
     "usage": "!help"
+  },
+  {
+    "name": "!about",
+    "description": "Mostra informações relevantes do Bot.",
+    "usage": "!about"
+  },
+  {
+    "name": "8ball",
+    "description": "Faça uma pergunta e receba sua resposta (Nota: Informe a pergunta depois do comando.).
   }
 ]
   
