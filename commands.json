@@ -8,5 +8,10 @@
     "name": "help",
     "description": "Mostra todos os comandos disponíveis",
     "usage": "!help"
+  },
+  {
+    "name": "verify",
+    "description": "Verifica a conta Roblox via Bloxlink",
+    "usage": "!verify @usuario"
   }
 ]
